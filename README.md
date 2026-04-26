@@ -12,7 +12,7 @@
 
 ## Usage
 
-1. If using releases, extract `dist/*` into your extension folder, otherwise extract `steffunky-backoffice-bluemoonr-theme` into your extension folder
+1. If using releases, extract `dist/*` into your extension folder, otherwise extract `steffunky-backoffice-bluemoon-theme` into your extension folder
 2. Run a setup
 3. Select `Blue moon` in your preferences
 
